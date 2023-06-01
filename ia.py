@@ -20,7 +20,11 @@ while True:
         print (ia + random.choice(ia_respostas.oi) + random.choice (emotions.emotions_oi))
     
     
-    
+ #------- COMO VAI / TUDO BOM / TUDO BEM / COMO VOCE ESTA -----   
+
+
+#--------------- TUDO BELEZA / TUDO TRANQUILO --------------
+
 
  #-------------------------------------------------------------  
     elif adm_fala == 'xau':
