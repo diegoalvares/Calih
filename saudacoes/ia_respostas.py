@@ -1,0 +1,1 @@
+bd = ['bom dia chefe!', 'bom dia chefinho!', 'bom diaaaa']
