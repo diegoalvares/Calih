@@ -1,0 +1,54 @@
+main{
+    width: 40%;
+    margin: center;
+}
+
+#msg{
+    font-size: 25px;
+    padding: 5px;
+    padding-left: 8px;
+    border-radius: 10px;
+    margin-top: 170px;
+    width: 70%;
+    box-shadow: 0px 0px 20px rgb(83, 83, 83);
+}
+
+::placeholder{
+    color: rgb(160, 158, 158);
+}
+
+#msg:hover{
+    box-shadow: 0px 0px 20px orange;
+    transition-duration: 0.5s;
+}
+
+#msg:focus  {
+    box-shadow: 0px 0px 20px orange;
+}
+
+#enviar{
+    background-color: orange;
+    color: white;
+    text-shadow: 1px 1px 1px grey;
+    font-size: 25px;
+    padding: 5px;
+    border-radius: 10px;
+    width: 20%;
+}
+
+#enviar:hover{
+    background-color: white;
+    color: orange;
+    transition-duration: 0.5s;
+}
+
+#ia{
+    font-size: 50px;
+    font-weight: 600;
+    color: rgb(255, 22, 255);
+    text-shadow: 1px 1px 1px black;
+}
+
+#resp{
+    color: rgb(255, 255, 255);
+}

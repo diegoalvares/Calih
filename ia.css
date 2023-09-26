@@ -1,0 +1,20 @@
+#circulo{
+    display: flex;
+    background: linear-gradient(to right, blue, cyan, rgb(153, 0, 255));
+    width: 280px;
+    height: 250px;
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 100px;
+    border-radius: 100%;
+}
+
+#circulo2{
+    background: black;
+    width: 270px;
+    height: 240px;
+    margin: auto;
+    margin-top: 5px;
+    margin-bottom: 30px;
+    border-radius: 100%;
+}
