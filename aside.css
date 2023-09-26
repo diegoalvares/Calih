@@ -1,0 +1,10 @@
+aside{
+    background-color: white;
+    color: black;
+    padding: 10px;
+    width: 100%;
+    text-align: center;
+    font-weight: 600;
+    font-size: 13px;
+    text-shadow: 1px 1px 1px grey;
+}
