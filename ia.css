@@ -17,3 +17,11 @@
     margin-bottom: 30px;
     border-radius: 100%;
 }
+
+img{
+    width: 240px;
+    height: 130px;
+    margin-left: 15px;
+    margin-top: 60px;
+    border-radius: 20px;
+}
