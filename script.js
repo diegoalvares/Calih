@@ -17,4 +17,10 @@ enviar.addEventListener('click', function(e){
     if(msg.value == 'boa noite' || msg.value == 'boanoite' || msg.value == 'bn' || msg.value == 'boa noite calih'){
         resp.innerHTML = 'boa noite chefinho'
     }
+
+    /* ------------- Td bom ------------------- */
+    
+    if(msg.value == 'tudo bom' || msg.value == 'tdbom' || msg.value == 'td bom' || msg.value == 'tudo bem' || msg.value == 'tdbem' || msg.value == 'como você está'|| msg.value == 'como vc está'|| msg.value == 'como vc esta'|| msg.value == 'como vai'){
+        resp.innerHTML = 'tudo ótimo chefinho'
+    }
 })

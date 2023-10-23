@@ -55,7 +55,7 @@ main{
 
 @media (max-width: 600px) {
     #ia, #resp{
-        font-size: 26px;
+        font-size: 22px;
     }
 
     #msg{
