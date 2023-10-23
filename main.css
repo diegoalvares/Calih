@@ -55,16 +55,16 @@ main{
 
 @media (max-width: 600px) {
     #ia, #resp{
-        font-size: 25px;
+        font-size: 26px;
     }
 
     #msg{
-        width: 350px;
-        font-size: 20px;
+        width: 310px;
+        font-size: 21px;
     }
 
     #enviar{
-        font-size: 20px;
+        font-size: 21px;
         padding: 6px;
     }
 }
