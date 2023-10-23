@@ -1,5 +1,4 @@
 main{
-    width: 90%;
     margin: auto;
 }
 
@@ -8,9 +7,10 @@ main{
     padding: 5px;
     padding-left: 8px;
     border-radius: 10px;
-    margin-top: 100px;
+    margin-top: 60px;
     box-shadow: 0px 0px 20px rgb(83, 83, 83);
-    width: 300px;
+    width: 600px;
+    text-transform: lowercase;
 }
 
 ::placeholder{
@@ -51,4 +51,20 @@ main{
 
 #resp{
     color: rgb(255, 255, 255);
+}
+
+@media (max-width: 600px) {
+    #ia, #resp{
+        font-size: 25px;
+    }
+
+    #msg{
+        width: 350px;
+        font-size: 20px;
+    }
+
+    #enviar{
+        font-size: 20px;
+        padding: 6px;
+    }
 }
